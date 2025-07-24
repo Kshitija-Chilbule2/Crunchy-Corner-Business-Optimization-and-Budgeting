@@ -1,3 +1,3 @@
-# Case Study: Crunchy Corner's Business Optimization and Budgeting 📊
+# Power BI Case Study: Crunchy Corner's Business Optimization and Budgeting 📊
 
 ## Table of Contents
