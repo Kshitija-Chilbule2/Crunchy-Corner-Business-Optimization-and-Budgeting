@@ -1,3 +1,3 @@
-# Power BI Case Study: IT Spend Analysis 
+# Case Study: Crunchy Corner's Business Optimization and Budgeting 📊
 
 ## Table of Contents
