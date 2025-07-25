@@ -6,7 +6,7 @@
 - [Background](#background)
 - [Project Objective](#project-objective)
 - [Tools Used](#tools-used)
-- [Data Collection](#data-collection)
+- [Data Understanding](#data-understanding)
 - [Business Metrics](#business-metrics)
 - [Data Cleaning](#data-cleaning)
 - [Data Modeling](#data-modeling)
@@ -30,7 +30,7 @@ By leveraging data visualization, segmentation, and comparative analysis, the go
 ## Tools Used
 <img width="64" height="64" alt="64px-New_Power_BI_Logo svg" src="https://github.com/user-attachments/assets/ea62f90a-201c-4e40-a45e-98fd56d0e43d" />
 
-## Data Collection
+## Data Understanding
 The Crunchy Corner Business data contains 47,7872 observations and 30 attributes.
 
 The Data Dictionary is provided below —
