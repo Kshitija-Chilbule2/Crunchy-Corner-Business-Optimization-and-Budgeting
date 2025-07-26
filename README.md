@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Background](#background)
-- [Project Objective](#project-objective)
+- [Client Requirement](#client-requirement)
 - [Tools Used](#tools-used)
 - [Data Understanding](#data-understanding)
 - [Business Metrics](#business-metrics)
@@ -18,14 +18,15 @@
 ## Background
 Crunchy Corner, one of India’s largest fast-food restaurant chains, serves millions of customers daily across various cities with an impressive network of over 1,000 restaurants. Renowned for offering the largest SKU in the industry, Crunchy Corner has become a household name for delicious and diverse food options. With such a massive operational scale, optimizing business and budgeting strategies is essential to maintain profitability, improve efficiency, and deliver exceptional value to its customers.
 
-## Project Objective
-This project aims to analyze Crunchy Corner's business performance from 2020 to 2024 through comprehensive financial and operational data. Using data-driven methodologies, our objective is to:
-- Identify budget inefficiencies and performance gaps.
-- Optimize expenditure and resource allocation.
-- Discover regional trends and underperforming zones.
-- Support strategic decision-making with clear, actionable insights.
+## Client Requirement
+Crunchy Corner seeks an interactive and insightful Power BI dashboard that provides a comprehensive view of the company’s financial and operational performance from 2020 to 2024. The client expects the dashboard to:
+- Present key financial metrics and performance indicators across all business units and regions.
+- Highlight budget utilization, variances, and inefficiencies.
+- Identify patterns and trends that affect profitability and operational efficiency.
+- Enable real-time monitoring of KPIs to support data-driven decision-making.
+- Provide actionable insights that guide budget optimization and business strategy refinement.
 
-By leveraging data visualization, segmentation, and comparative analysis, the goal is to empower Crunchy Corner with intelligence that supports scalable growth, better financial planning, and improved operational outcomes.
+The primary goal is to equip leadership and stakeholders with a powerful tool that facilitates better planning, faster decisions, and sustainable growth through effective data visualization and analysis.
 
 ## Tools Used
 <img width="64" height="64" alt="64px-New_Power_BI_Logo svg" src="https://github.com/user-attachments/assets/ea62f90a-201c-4e40-a45e-98fd56d0e43d" />
