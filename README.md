@@ -24,7 +24,7 @@ Crunchy Corner seeks an interactive and insightful Power BI dashboard that provi
 - Highlight budget utilization, variances, and inefficiencies.
 - Identify patterns and trends that affect profitability and operational efficiency.
 - Enable real-time monitoring of KPIs to support data-driven decision-making.
-- Provide actionable insights that guide budget optimization and business strategy refinement.
+- Provide actionable insights that guide business optimization and financial planning, and budgeting.
 
 The primary goal is to equip leadership and stakeholders with a powerful tool that facilitates better planning, faster decisions, and sustainable growth through effective data visualization and analysis.
 
