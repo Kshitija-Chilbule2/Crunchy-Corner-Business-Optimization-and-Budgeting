@@ -3,7 +3,7 @@
 ```QSR: Quick Service Restaurant```
 
 ## Table of Contents
-- [1️⃣Background](#background)
+- [Background](#background)
 - [Client Requirement](#client-requirement)
 - [Tools Used](#tools-used)
 - [Data Understanding](#data-understanding)
@@ -15,7 +15,7 @@
 - [Summary of Insights](#summary-of-insights)
 - [Conclusion](#conclusion)
 
-## 1️⃣Background
+## Background
 Crunchy Corner, one of India’s largest fast-food restaurant chains, serves millions of customers daily across various cities with an impressive network of over 1,000 restaurants. Renowned for offering the largest SKU in the industry, Crunchy Corner has become a household name for delicious and diverse food options. With such a massive operational scale, optimizing business and budgeting strategies is essential to maintain profitability, improve efficiency, and deliver exceptional value to its customers.
 
 ## Client Requirement
