@@ -137,3 +137,29 @@ For Crunchy Corner’s extensive dataset, consisting of 2 fact tables and 9 dime
 <img width="746" height="586" alt="image" src="https://github.com/user-attachments/assets/c13dfa01-7714-4e10-bdca-7d6986524bea" />
 
 ## DAX Measures
+**1. Net Revenue (Actual)**
+```
+a Net Revenue = CALCULATE(SUM(Actual[Net Revenue]))
+```
+
+**2. Gross Profit (Actual)**
+```
+a Gross Profit = CALCULATE(SUM(Actual[Gross Profit]))
+```
+
+**3. EBITDA (Actual)**
+```
+a EBITDA = CALCULATE(SUM(Actual[Ebitda]))
+```
+
+**4. PAT (Profit After Tax - Actual)**
+```
+a PAT = CALCULATE(SUM(Actual[Net Profit]))
+```
+
+**5. Volume (Actual)**
+```
+a Volume = CALCULATE(SUM(Actual[Volume Mt]))
+```
+
+
