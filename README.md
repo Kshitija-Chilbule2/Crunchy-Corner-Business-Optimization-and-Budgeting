@@ -72,19 +72,19 @@ The Data Dictionary is provided below —
 - **Net Profit:** The final profit after deducting all expenses, taxes, and one-off items from gross profit.
 
 ## Business Metrics
-#### 1. Total Number of SKUs (Stock Keeping Units): 
+### 1. Total Number of SKUs (Stock Keeping Units): 
 A unique code given to each product by businesses to help track inventory and manage orders. Crunchy Corner holds the distinction of having the largest SKU variety in the industry.
 
-#### 2. COGS(Cost of Goods Sold): 
+### 2. COGS(Cost of Goods Sold): 
 COGS represents the direct costs a company pays to make the products it sells, such as raw materials, labor, and production costs. It is subtracted from total sales to find out how much profit the company makes from selling its goods.
 
-#### 3. Gross Profit (GP): 
+### 3. Gross Profit (GP): 
 Gross Profit is the money a company makes from selling its products after subtracting the cost of making those products (COGS). It shows how efficiently the company is producing and selling its goods. Gross Profit is calculated by subtracting the Cost of Goods Sold (COGS) from Net Revenue.
 
 **Formula:**
 GP=Net Revenue−COGS
 
-#### 4. Net Revenue: 
+### 4. Net Revenue: 
 Net Revenue is the money a company keeps after subtracting costs like marketing, distribution, discounts, and other expenses from its total sales. It gives a clearer picture of the company’s real earnings, which can be used for operations, taxes, and profit.
 
 **_Note:_** _Total revenue is not the same as Net revenue._
@@ -92,40 +92,40 @@ Net Revenue is the money a company keeps after subtracting costs like marketing,
 - Total Revenue refers to the total amount of money a company earns from its sales before any deductions.
 - Net Revenue is the amount remaining after subtracting different costs. It represents the actual revenue a company retains after these deductions.
 
-#### 5. EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization): 
+### 5. EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization): 
 EBITDA is derived by subtracting operating expenses (like selling, marketing, and administrative costs) from Gross Profit. It reflects the company’s profitability from its core operations, excluding non-operational and non-cash items.
 
 **Formula:**
 EBITDA=Gross Profit−Operating Expenses
 
-#### 6. PAT (Profit After Tax): 
+### 6. PAT (Profit After Tax): 
 PAT is the final profit figure, showing the earnings available to the shareholders. It is derived by subtracting all non-operating expenses (such as taxes, interest, and depreciation) from EBITDA.
 
 **Formula:**
 PAT=EBITDA−Interest−Taxes−Depreciation and Amortization
 
-#### 7. Volume: 
+### 7. Volume: 
 Volume refers to the total quantity of products sold or the amount of business activity carried out in a given period. In terms of sales, it indicates how many units of a product were sold, helping to assess market demand and business performance.
 
-#### 8. Raw Material Cost:
+### 8. Raw Material Cost:
 Raw Material Costs for Crunchy Corner include the expenses incurred in procuring the basic ingredients required for food preparation. This includes the cost of fresh produce, meats, packaging materials, spices, and other necessary raw materials to ensure high-quality meals are consistently served to customers.
 
-#### 9. Trade and Discount Cost:
+### 9. Trade and Discount Cost:
 Trade and Discount Cost refers to the financial outlay Crunchy Corner spends on promotional offers, discounts, and deals to attract customers or partners. This can include seasonal discounts, bundle offers, or loyalty incentives designed to boost sales and customer retention.
 
-#### 10. Marketing Cost:
+### 10. Marketing Cost:
 Marketing Cost encompasses the expenses Crunchy Corner invests in advertising, brand promotions, digital campaigns, and other marketing activities aimed at raising brand awareness, reaching new customers, and retaining loyal ones. This could include social media ads, TV commercials, billboards, and promotional events.
 
-#### 11. Fixed and Variable Costs:
+### 11. Fixed and Variable Costs:
 
 - **Fixed Costs:** These are the expenses that do not change regardless of the restaurant’s sales volume. For Crunchy Corner, fixed costs include rent for restaurant locations, salaries for management and permanent staff, and utility bills that are constant over time.
 
 - **Variable Costs:** These are expenses that fluctuate depending on the volume of sales. For Crunchy Corner, variable costs include raw materials and transportation costs that vary based on the number of meals sold and orders processed.
 
-#### 12. General and Administrative Costs:
+### 12. General and Administrative Costs:
 General and Administrative (G&A) Costs for Crunchy Corner involve overhead expenses necessary for running the business. These costs include office expenses, salaries for corporate staff, legal fees, insurance, and other administrative functions that support the overall operations of the company but are not directly tied to food production or sales.
 
-#### 13. Sales and Distribution Costs:
+### 13. Sales and Distribution Costs: 
 Sales and Distribution Costs include the expenses incurred in delivering products to customers and managing sales. This includes the costs of transportation, delivery services, and the expenses related to running the sales process at each restaurant. These costs ensure that products are efficiently distributed to meet customer demand.
 
 ## Data Cleaning
