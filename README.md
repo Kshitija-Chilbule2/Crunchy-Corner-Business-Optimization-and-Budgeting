@@ -15,7 +15,7 @@
 - [Summary of Insights](#summary-of-insights)
 - [Conclusion](#conclusion)
 
-## Background
+## 1️⃣Background
 Crunchy Corner, one of India’s largest fast-food restaurant chains, serves millions of customers daily across various cities with an impressive network of over 1,000 restaurants. Renowned for offering the largest SKU in the industry, Crunchy Corner has become a household name for delicious and diverse food options. With such a massive operational scale, optimizing business and budgeting strategies is essential to maintain profitability, improve efficiency, and deliver exceptional value to its customers.
 
 ## Client Requirement
