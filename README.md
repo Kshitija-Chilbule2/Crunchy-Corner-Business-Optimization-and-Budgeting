@@ -3,7 +3,7 @@
 ```QSR: Quick Service Restaurant```
 
 ## Table of Contents
-- [Background](#background)
+- [1️⃣Background](#background)
 - [Client Requirement](#client-requirement)
 - [Tools Used](#tools-used)
 - [Data Understanding](#data-understanding)
